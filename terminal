@@ -1,0 +1,5 @@
+Daiki@Daiki-Ogusu ~ % cd Downloads
+sudo mv composer.phar /usr/local/bin/composer
+chmod a+x /usr/local/bin/composer
+Password:
+mv: composer.phar: No such file or director
